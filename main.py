@@ -5,6 +5,7 @@ import tempfile
 import os
 import io
 import qrcode
+import cv2
 
 # Initialize the Roboflow API client
 rf = Roboflow(api_key="L9IZWDSxvti64yIi51dM")
