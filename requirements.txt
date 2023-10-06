@@ -1,6 +1,6 @@
 streamlit==0.88.0  # Replace with the appropriate Streamlit version
 Pillow==8.3.2  # Replace with the appropriate Pillow version
-roboflow==1.1.0  # Replace with the appropriate Roboflow version
+roboflow==1.1.3  # Replace with the appropriate Roboflow version
 qrcode[pil]==7.3  # Replace with the appropriate qrcode version
 
 # Additional dependencies (if any)
